@@ -1,3 +1,3 @@
 # dockerproj
 Udacity Training Chapter 4
-# hello
+[![CircleCI](https://circleci.com/gh/LauraFoulquier/dockerproj/tree/master.svg?style=svg)](https://circleci.com/gh/LauraFoulquier/dockerproj/tree/master)
